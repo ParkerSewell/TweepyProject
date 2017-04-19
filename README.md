@@ -5,3 +5,7 @@ Save them somewhere. We will be using python 3, so make sure to have that on you
 Step 2: Open terminal and type: pip install tweepy
 This should install it without error. 
 Step 3: Run the program tweepy_start like so: python3 tweepy_start.py
+
+BONUS: To save tweets to a CSV, call tweet_writer.py. It'll write to tweepy_tweets.csv
+
+
